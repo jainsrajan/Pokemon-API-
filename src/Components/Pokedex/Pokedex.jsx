@@ -1,5 +1,5 @@
 import Search from '../Search/Search'
-import './pokedex.css'
+import './Pokedex.css'
 import PokemonList from '../PokemonList/PokemonList'
 import { useState } from 'react'
 import Pokemon from '../Pokemon/Pokemon'
