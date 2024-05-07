@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Pokedex from './Components/Pokedex/Pokedex'
-import CustomRoutes from './Routes/Customroutes'
+import CustomRoutes from './Routes/CustomRoutes.jsx'
 import { Link } from 'react-router-dom'
 
 
